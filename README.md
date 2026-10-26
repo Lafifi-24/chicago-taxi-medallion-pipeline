@@ -4,7 +4,6 @@
 - 12.5 GB of RAM
 - 22GB for Disk
 ## Running steps
-- validate that we are in `hamza_lafifi_assignment` brench
 - Make sure these ports are free:
     - 9000 and 9001 for MinIO
     - 19000 and 8123 for ClickHouse
